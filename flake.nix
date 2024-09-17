@@ -19,6 +19,7 @@
             python311Packages.sentencepiece
             python311Packages.accelerate
             python311Packages.transformers
+            python311Packages.python-dotenv
 
             (
               pkgs.python311Packages.buildPythonPackage rec {
